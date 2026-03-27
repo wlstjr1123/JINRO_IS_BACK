@@ -19,3 +19,6 @@
 
 ### 내담자 화면 응시 3초간 확인
 * 내담자가 영상 분석을 하기전 웹캠을 정면으로 응시하고있는지 판단하기 위해 미디어파이스 페이스매쉬를 활용하여 단순히 화면에 얼굴이 있는지 확인하는것을 넘어 사용자가 정확히 정면을 응시하고있는 계산하는 로직을 구현
+* 코와 왼쪽과 오른쪽 끝 세점의 좌표를 구하여 정면응시 판단 코드 구현
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/c046abf9-1bad-4af0-b437-2b02a7429ac9" />
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/1930a173-99b7-4aa0-8d36-a1e7165c3637" />
