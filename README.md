@@ -1,6 +1,6 @@
 ## AI 기반 진로 상담 지원 플랫폼 개발 - 너 내 진로가 되라
 * **시연 영상은 필요하실때 연락주시면 보내드립니다**
-* [문서및 가상환경](https://drive.google.com/drive/folders/1U52hYSRpNeul6byyYGkKamrlGaNVSBgt?usp=drive_link)
+* [문서및 가상환경](https://drive.google.com/drive/folders/1C4ps3KexQ-6BI_Up2JH35JHyJVr-h5KY?usp=drive_link)
 
 ### 개요
 * 기존 진로 상담은 학생의 주관적 응답과 상담사의 메모에 크게 의존하기 때문에, 상담 내용을 객관적으로 구조화하고 이후 판단에 활용하기 어렵다는 한계가 있습니다. 이 프로젝트는 학생의 영상 시청 반응, 설문 결과, 상담 대화처럼 서로 다른 형태의 데이터를 AI로 통합 분석해 상담 과정의 보조 도구로 활용하고자 기획 되었습니다.
